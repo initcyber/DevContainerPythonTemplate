@@ -10,3 +10,6 @@ Examples of Codespace Below:
 ![Example 2]("/assets for README.MD/image.png")
 
 If you choose to use this container, you can safely remove "assets for README.MD" folder and the README.md file
+
+##
+This has Python 3 Installed, black, flake8, pre-commit (with pre-commit-config.yaml)
